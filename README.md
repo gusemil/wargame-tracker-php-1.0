@@ -7,7 +7,7 @@ Initial implementation of the site here without secret information regarding ema
 ## Features
 * View latest matches and top players
 * Registration with email verification using PHPMailer
-* User login and user dashboard
+* User login and user dashboard including user stats
 * Admin tools for adding matches
 * ELO based user ranking
 * Responsive. Both mobile and desktop friendly
