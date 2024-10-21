@@ -10,6 +10,7 @@ Initial implementation of the site here without secret information regarding ema
 * User login and user dashboard
 * Admin tools for adding matches
 * ELO based user ranking
+* Responsive. Both mobile and desktop friendly
 
 ## Stack
 * Styling: HTML, CSS, Bootstrap 5
