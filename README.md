@@ -19,4 +19,5 @@ Initial implementation of the site here without secret information regarding ema
 * Databases: SQL
 
 <b>NOTE: This is is a hobby project and not intended for professional usage. Use at your own risk.</b><br>
-<b>NOTE 2: An expanded version is in the works</b>
+<b>NOTE 2: Tested with XAMPP</b><br>
+<b>NOTE 3: An expanded version is in the works</b>
