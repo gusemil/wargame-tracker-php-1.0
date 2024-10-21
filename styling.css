@@ -1,0 +1,37 @@
+body 
+{
+    /*FIXME: unncessary?*/
+    height: 100%;
+    width: 100%;
+}
+
+.my-card-styling {
+    margin:0.5rem; 
+    padding:0.5rem;
+}
+
+@media screen and (max-width: 992px) {
+    .my-nav-contact-links {
+        visibility: none;
+        display: none;
+    }
+
+    .my-nav-link {
+        text-align: center;
+    }
+
+    .my-footer {
+        position: static;
+    }
+  }
+  
+.my-nav-link:hover {
+    background-color: rgb(0, 115, 255);
+}
+
+  .my-footer {
+    /*TODO: remove/adjust this on mobile*/
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
