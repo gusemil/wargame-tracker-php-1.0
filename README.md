@@ -14,7 +14,7 @@ Initial implementation of the site here without secret information regarding ema
 
 ## Stack
 * Styling: HTML, CSS, Bootstrap 5
-* Frontend: HTML, JavaScript
+* Frontend: JavaScript
 * Backend: PHP
 * Databases: SQL
 
